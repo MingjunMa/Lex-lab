@@ -1,0 +1,27 @@
+/*this is a annotation*/
+import pack;
+
+var name = 'this is a name';
+var num = 10;
+var f_num = -10.01;
+var arr[2] = {0, 1, 2};
+
+while(num <= 15){
+	num++;
+	print(name);
+}
+
+if(num != false){
+	f_num = num+10/(0x10);
+}
+else{
+	num = 0x11>>1;
+}
+
+var str = input();
+str = str + name;
+
+switch(1):
+	case 1: num--;
+	case 2: num++;
+return true
